@@ -1,4 +1,4 @@
-﻿//You own a fashion boutique and you receive a delivery once a month in a huge box, which is full of clothes.
+//You own a fashion boutique and you receive a delivery once a month in a huge box, which is full of clothes.
 //You have to arrange them in your store, so you take the box and start from the last piece of clothing
 //on the top of the pile to the first one at the bottom.
 //Use a stack for this purpose.
@@ -21,7 +21,6 @@
 //•	There will never be more than 50 clothes in a box
 //•	The capacity will be an integer in the range [0,20]
 //•	None of the integers from the box will be greater than than the value of the capacity
-
 
 using System;
 using System.Collections.Generic;
